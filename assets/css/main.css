@@ -3173,12 +3173,12 @@ input, select, textarea {
 		/* Main */
 
 			#main {
-				padding: 2.25em 1.5em 0.25em 1.5em;
+				padding: 0 1.5em 0.25em 1.5em;
 			}
 
 				#main > section {
-					margin: 2.25em 0 0 0;
-					padding: 2.25em 0 0 0;
+					margin: 0 0 0 0;
+					padding: 0 0 0 0;
 				}
 
 		/* Poptrox */
