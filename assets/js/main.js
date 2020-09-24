@@ -17,7 +17,7 @@
 				parallax: true,
 
 			// Parallax factor (lower = more intense, higher = less intense).
-				parallaxFactor: 100
+				parallaxFactor: 20
 
 		};
 
@@ -109,7 +109,7 @@
 					usePopupDefaultStyling: false,
 					usePopupEasyClose: false,
 					usePopupNav: true,
-					windowMargin: (breakpoints.active('<=small') ? 0 : 50)
+					windowMargin: (breakpoints.active('<=small') ? 0 : 10)
 				});
 
 			});
