@@ -58,6 +58,13 @@ html {
 body {
 	-webkit-text-size-adjust: none;
 }
+span::after {
+
+content: '';
+width: 100%;
+border: 1px solid red;
+display: block;
+}
 
 mark {
 	background-color: transparent;
