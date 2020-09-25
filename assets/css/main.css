@@ -51,10 +51,6 @@ table {
 	border-spacing: 0;
 }
 
-a:link{
-  text-decoration: none!important;
-}
-
 html {
 	scroll-behavior: smooth;
 }
