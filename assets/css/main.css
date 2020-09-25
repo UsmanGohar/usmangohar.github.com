@@ -2830,7 +2830,7 @@ input, select, textarea {
 			bottom: 0;
 			cursor: default;
 			font-size: 0.9em;
-			height: 3em;
+			height: 0em;
 			left: 0;
 			line-height: 2.8em;
 			position: absolute;
