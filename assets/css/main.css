@@ -55,6 +55,10 @@ html {
 	scroll-behavior: smooth;
 }
 
+a {
+    text-decoration: none !important;
+}
+
 body {
 	-webkit-text-size-adjust: none;
 }
