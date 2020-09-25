@@ -2784,6 +2784,8 @@ input, select, textarea {
 		-webkit-box-sizing: border-box;
 		-ms-box-sizing: border-box;
 		box-sizing: border-box;
+		max-height: 100%;
+   		max-width: 100%;
 		-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
 		background: #fff;
 		border-radius: 0.35em;
