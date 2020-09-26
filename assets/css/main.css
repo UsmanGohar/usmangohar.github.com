@@ -2703,6 +2703,9 @@ input, select, textarea {
 
 		#main > section {
 			border-top: solid 2px #efefef;
+			border-left: solid 2px #efefef;
+			border-right: solid 2px #efefef;
+			border-bottom: solid 2px #efefef
 			margin: 0 0 0 0;
 			padding: 0 0 0 0;
 		}
