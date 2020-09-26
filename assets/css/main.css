@@ -309,6 +309,14 @@ input, select, textarea {
 		align-items: stretch;
 	}
 
+		.row > article {
+			border-color: #eeeeee;
+			border-left-width: 2px;
+			border-style: solid;
+			border-top-width: 2px;
+			text-align: center;
+			}
+
 		.row > * {
 			box-sizing: border-box;
 		}
@@ -2694,8 +2702,8 @@ input, select, textarea {
 */
 
 	#main {
-		margin-left: 0%;
-		margin-right: 0%
+		margin-left: 25%;
+		margin-right: 25%
 		max-width: 54em;
 		padding: 4em 4em 4em 4em;
 		width: calc(100% - 35%);
