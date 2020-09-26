@@ -2707,7 +2707,7 @@ input, select, textarea {
 			border-right: solid 2px #efefef;
 			border-bottom: solid 2px #efefef
 			margin: 0 0 0 0;
-			padding: 0 0 0 0;
+			padding: 2em 2em 2em 2em;
 		}
 
 			#main > section:first-child {
